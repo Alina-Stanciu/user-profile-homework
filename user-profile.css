@@ -1,0 +1,19 @@
+body {
+  padding-left: 50px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.section {
+  column-count: 2;
+}
+
+.category {
+  margin-top: auto;
+  color: gray;
+}
+
+.profile-picture {
+  width: 30%;
+  padding: 6px;
+  box-shadow: 2px 2px 5px grey;
+}
